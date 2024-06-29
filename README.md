@@ -10,5 +10,3 @@ In this Anime guide, I will share my favorite anime series, movies, and characte
 # Important
 If you encounter any issues with missing elements on my website, simply reload the page. I’m currently investigating the problem.
 
-https://github.com/Kunal-Diwakar/ANIME-GUIDE/assets/148766566/08dfb514-8fb1-44ef-addf-8e68d0f3b535
-
